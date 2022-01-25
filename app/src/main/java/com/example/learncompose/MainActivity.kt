@@ -105,7 +105,7 @@ private fun CardShow() {
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Text(text = "Olá Pessoas!")
+
     }
 }
 
